@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "name": "Masa",
+    "modelUrl": "http://example.com/models/masa.obj",
+    "textureUrl": "https://img.edilportale.com/product-thumbs/b_heri-o-b-b-italia-641762-relf37949c7.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "Sandalye",
+    "modelUrl": "http://example.com/models/sandalye.obj",
+    "textureUrl": "https://img.edilportale.com/product-thumbs/b_heri-o-b-b-italia-641762-relf37949c7.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Koltuk",
+    "modelUrl": "http://example.com/models/sandalye.obj",
+    "textureUrl": "https://img.edilportale.com/product-thumbs/b_heri-o-b-b-italia-641762-relf37949c7.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Kitaplık",
+    "modelUrl": "http://example.com/models/sandalye.obj",
+    "textureUrl": "https://img.edilportale.com/product-thumbs/b_heri-o-b-b-italia-641762-relf37949c7.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Sandalye",
+    "modelUrl": "http://example.com/models/sandalye.obj",
+    "textureUrl": "https://img.edilportale.com/product-thumbs/b_heri-o-b-b-italia-641762-relf37949c7.jpeg"
+  }
+
+]
